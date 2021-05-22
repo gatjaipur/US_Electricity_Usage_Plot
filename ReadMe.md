@@ -1,0 +1,1 @@
+Plotting electricity usage for various economic sectors - residential, commercial, and industrial. Which economic sector's usage do you think will be the largest?
